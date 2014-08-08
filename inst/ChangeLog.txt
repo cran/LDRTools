@@ -1,0 +1,5 @@
+LOG of the CHANGES in the package LDRTools
+
+Version 0.1:
+
+First version released on CRAN
