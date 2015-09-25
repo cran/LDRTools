@@ -35,7 +35,8 @@ an object of class \code{dist} having the attributes:
 \references{
 \cite{Crone, L. J., and Crosby, D. S. (1995), Statistical Applications of a Metric on Subspaces to Satellite Meteorology, Technometrics 37, 324-328. }
 
-\cite{Liski, E., Nordhausen, K., Oja, H. and Ruiz-Gazen, A. (2013), Averaging Orthogonal Projectors, preprint available as arXiv:1210.2575 [stat.ME]. } 
+\cite{Liski, E., Nordhausen, K., Oja, H. and Ruiz-Gazen, A. (201?), Combining Linear Dimension Reduction
+Subspaces, to appear in the proceedings of ICORS 2015. } 
 }
 \author{
 Eero Liski and Klaus Nordhausen

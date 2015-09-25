@@ -1,5 +1,13 @@
 LOG of the CHANGES in the package LDRTools
 
+Version 0.2:
+
+* Input for the B2P-function forced as a matrix
+* Changing the maintainer of the package
+* Updating some help files
+
+
 Version 0.1:
 
-First version released on CRAN
+* First version released on CRAN
+
