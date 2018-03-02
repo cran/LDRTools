@@ -35,8 +35,7 @@ an object of class \code{dist} having the attributes:
 \references{
 \cite{Crone, L. J., and Crosby, D. S. (1995), Statistical Applications of a Metric on Subspaces to Satellite Meteorology, Technometrics 37, 324-328. }
 
-\cite{Liski, E., Nordhausen, K., Oja, H. and Ruiz-Gazen, A. (201?), Combining Linear Dimension Reduction
-Subspaces, to appear in the proceedings of ICORS 2015. } 
+\cite{Liski E., Nordhausen K., Oja H., and Ruiz-Gazen A. (2016), Combining Linear Dimension Reduction Subspaces. In: Agostinelli C., Basu A., Filzmoser P., Mukherjee D. (eds) Recent Advances in Robust Statistics: Theory and Applications. \doi{10.1007/978-81-322-3643-6_7}.}  
 }
 \author{
 Eero Liski and Klaus Nordhausen
